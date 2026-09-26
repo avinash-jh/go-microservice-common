@@ -2,7 +2,8 @@ package database
 
 import (
 	"fmt"
-	"go-microservice-common/models"
+
+	"github.com/avinash-jh/go-microservice-common/models"
 
 	"gorm.io/gorm"
 )
